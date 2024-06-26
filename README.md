@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F81%2F17%2F8b%2F81178b47a8598f0c81c4799f2cdd4057.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&docid=HAR_qp5qQB282M&tbnid=QCZULViz1nWbzM&vet=12ahUKEwjbztr17vmGAxWuRPEDHeGpCOkQM3oECFEQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjbztr17vmGAxWuRPEDHeGpCOkQM3oECFEQAA">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0omaaar&label=Profile%20views&color=0e75b6&style=flat" alt="0omaaar" /> </p>
 
